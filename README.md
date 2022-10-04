@@ -25,7 +25,7 @@
 
 
 ## DEPLOY TO HEROKU
-[Klik](https://heroku.com/deploy?template=https://github.com/reyclass/REY-UBOT)
+[Klik](https://telegram.dog/XTZ_HerokuBot?start=cmV5Y2xhc3MvUkVZLVVCT1QgcmV5Y2xhc3M)
 
 """
 DISCLAIMER,
